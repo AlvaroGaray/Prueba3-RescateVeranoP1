@@ -1,0 +1,22 @@
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Empresa.frmUsuario.resources
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.Properties.Resources.resources
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.csproj.GenerateResource.cache
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\bin\Debug\Examen3.exe.config
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\bin\Debug\Examen3.exe
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\bin\Debug\Examen3.pdb
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.exe
+C:\Users\CCBB-17\Desktop\Examen3\Examen3\Examen3\obj\Debug\Examen3.pdb
+F:\Programacion 1\Examen3\Examen3\bin\Debug\Examen3.exe.config
+F:\Programacion 1\Examen3\Examen3\bin\Debug\Examen3.exe
+F:\Programacion 1\Examen3\Examen3\bin\Debug\Examen3.pdb
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.csproj.SuggestedBindingRedirects.cache
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Empresa.frmUsuario.resources
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.Properties.Resources.resources
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.csproj.GenerateResource.cache
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.exe
+F:\Programacion 1\Examen3\Examen3\obj\Debug\Examen3.pdb
